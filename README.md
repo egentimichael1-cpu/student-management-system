@@ -1,5 +1,8 @@
 # Student Management System
 
+**Name:** Egenti Michael Chinedu
+**Department:** Cyber security
+**Course:** SEN 201
 A simple console-based Student Management System developed in Python 3.  
 This project demonstrates the full Software Development Life Cycle (SDLC), including design, implementation, testing, and deployment.
 
@@ -22,3 +25,4 @@ This project demonstrates the full Software Development Life Cycle (SDLC), inclu
 
 ```bash
 python student_management_system.py
+
