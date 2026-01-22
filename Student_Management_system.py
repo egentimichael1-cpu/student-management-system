@@ -1,5 +1,6 @@
 # Student Management System
 # Author: Egenti Michael Chinedu
+# Matric Number: 24/14118
 # Language: Python 3
 
 students = []
@@ -85,5 +86,6 @@ def main_menu():
             break
         else:
             print("Invalid choice. Try again.\n")
+
 
 main_menu() 
